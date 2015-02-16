@@ -1,0 +1,3 @@
+[submodule "comp1"]
+	path = comp1
+	url = git@github.com:unnonouno/comp1.git
